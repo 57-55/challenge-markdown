@@ -1,14 +1,17 @@
 # Stéphanie Pécher
+*En formation avec BeCode!*
+
+### sentence
 
 
 <table width=50px>
 <tr>
 <th width= 20%> <b> Date de naissance:</b> </th>
-<td> <input type="date"</td>
+<td> </td>
 </tr>
 <tr>
 <th width= 40%> <b> Sexe: </b> </th>
-<td> <input type="checkbox" name="réponse" value="F"> F <input type="checkbox" name="réponse" value="M"> M </td>
+<td> [x]F []M </td>
 </tr>
 <tr>
 <th width= 40%> <b> Couleur préférée: <b> </th>
@@ -20,7 +23,7 @@
 </tr>
 <tr>
 <th width= 40%> <b>Ananas sur la pizza? </b> </th>
-<td> <input type="checkbox" name= "avis" value="oui"> Oui <input type="checkbox" name="avis" value="non">Non <input type="checkbox" name="avis" value="Pourquoi pas?"> Pourquoi pas?</td>
+<td> []oui []non [x]pourquoi pas? </td>
 </tr>
 </table>
 
