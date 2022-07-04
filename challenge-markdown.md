@@ -46,6 +46,6 @@ Une instit a préféré épargner ses vêtements de luxe plutôt que de s'occupe
 </br>
 </br>
 
-<< [Kamilla Moraes]() || [Stéphanie Pécher](https://github.com/57-55/challenge-markdown/blob/branche2/challenge-markdown.md) || [Julien Scoumeau]() >>
+<< [Kamilla Moraes](https://github.com/kamigella/challenge-markdown/blob/main/README.md) || [Stéphanie Pécher](https://github.com/57-55/challenge-markdown/blob/branche2/challenge-markdown.md) || [Julien Scoumeau](https://github.com/JulienScourneau/challenge-markdown/blob/main/README.md) >>
 
 
