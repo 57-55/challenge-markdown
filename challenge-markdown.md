@@ -1,8 +1,10 @@
 # Stéphanie Pécher
 *"Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie!"*
 
-![](../../Pictures/photo_perso_bimoji.jpg)
-<br/>
+![](Images/photo_perso_bimoji.jpg)
+
+
+
 ##### En formation avec BeCode!
 
 <br/>
