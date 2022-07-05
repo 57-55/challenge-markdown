@@ -44,7 +44,7 @@ Si tu as besoin d'aide et que je suis en mesure de t'aider.
 ### Une histoire fun
 Je devais avoir 9 ou 10 ans, je me suis, le temps d'une récréation, transformée en grand méchant loup qui devait attraper les 7 biquets.. Sauf qu'un biquet a été plus malin et a réussi à claquer la porte sur la papatte du méchant loup.. Patte en sang, le loup (très rapidement redevenu petite fillette) va voir son institutrice.. dont la réaction a été.. "Oh non ne venez pas salir mon manteau tout blanc!"
 ##### tl;dr
-Une instit a préféré épargner ses vêtements de luxe plutôt que de s'occuper de moi et de mon doigt cassé.. 
+Une instit a préféré épargner ses vêtements de luxe plutôt que de s'occuper de moi et de mon doigt cassé..!
 </br>
 </br>
 
